@@ -56,7 +56,7 @@ void reverse()
  
         // Reverse current node pointer
         current->next = bef;
- 
+ //test
         // Move pointers one position ahead.
         bef = current;
         current = next;
